@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPSC7312_BudgetBuddy</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Dont have an Account?</string>
+    <string name="register">Register</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="home_page">Home Page</string>
+    <string name="budget_buddy" translatable="false">Budget Buddy</string>
+    <string name="dashboard" translatable="false">Dashboard</string>
+    <string name="analytics">Analytics</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="available_budget">Available Budget</string>
+    <string name="budget_zar">Budget (ZAR)</string>
+    <string name="transactions">Transactions</string>
+    <string name="r0_00" translatable="false">R0,00</string>
+    <string name="_142" translatable="false">142</string>
+    <string name="_000" translatable="false">000</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="log_transaction">Log Transaction</string>
+    <string name="budget_breakdown">Budget Breakdown</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="default_web_client_id" translatable="false">548207325701-qfsj50e6pci9a8mqqf78om4o6ml2nh97.apps.googleusercontent.com</string>
+    <string name="notifications">Notifications</string>
+    <string name="total_budgets_made">Total Budgets made:</string>
+    <string name="total_budgeted_with_budget_buddy">Total budgeted with Budget Buddy:</string>
+    <string name="change_language_to_afrikaans">Verander Taal na Afrikaans</string>
+    <string name="budget_history">Budget History</string>
+    <string name="kaushildajee_gmail_com" translatable="false">Kaushildajee@gmail.com</string>
+    <string name="kaushil_dajee" translatable="false">Kaushil Dajee</string>
+    <string name="_124_545_00" translatable="false">124 545, 00</string>
+    <string name="food">Food</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="category_name" translatable="false">Category Name</string>
+    <string name="amount" translatable="false">Amount</string>
+    <string name="keys">Keys</string>
+    <string name="set_a_budget_via_the_pop_up_button" translatable="false">Set a budget via the pop up button</string>
+    <string name="budget_for_the_month">Budget for the month</string>
+    <string name="budget_spent_so_far">Budget Spent so far</string>
+    <string name="budget_available">Budget Available</string>
+    <string name="monthly_budget_insight">Monthly Budget Insight</string>
+    <string name="current_month_year" translatable="false">current_month_year</string>
+    <string name="r_3_00" translatable="false">R 3,00</string>
+    <string name="bought_coke" translatable="false">Bought Coke</string>
+    <string name="food_item_transaction" translatable="false">Food</string>
+    <string name="kfc_streetwise_2" translatable="false">KFC streetwise 2</string>
+    <string name="r_4000_00" translatable="false">-R 4000.00</string>
+    <string name="food_transaction_item" translatable="false">Food</string>
+    <string name="dateHere" translatable="false">(DateHere)</string>
+    <string name="save_pie_chart">Save Pie Chart</string>
+    <string name="save_bar_graph">Save Bar graph</string>
+    <string name="network_error" translatable="false">Network Error</string>
+    <string name="some_features_will_not_be_available_in_offline_mode" translatable="false">Some features will not be available in offline mode.</string>
+    <string name="export_budget_to_csv">Export Budget to CSV</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="bar_data_set">Bar Data Set</string>
+
+    <string-array name="month_names">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
